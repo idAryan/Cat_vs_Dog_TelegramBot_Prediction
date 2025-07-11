@@ -17,5 +17,10 @@ Frameworks used:
 - OpenCV for preprocessing
 
 ```python
-<img width="670" height="462" alt="image" src="https://github.com/user-attachments/assets/7f0ec93a-ddad-495f-8a1d-0afc73bdcb7e" />
+
+
+<p align="center">
+  <img src="assets/sample_output.png" width="600"/>
+</p>
+
 
