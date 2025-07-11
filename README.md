@@ -9,8 +9,11 @@ Implemented a convolutional neural network (2 Convo + 2 Dense Layer) trained on 
 Simple Cat vs Dog Classification. Whenever user sends a Photo to the telegram, it predicts using trained model and replies back
 
 <p align="center">
-  <img src="assets/demo.gif" width="600"/>
+  <img src="assets/demo.gif" style="height: 550px; width: auto;" />
 </p>
+
+
+
 
 ##  Model Architecture
 
