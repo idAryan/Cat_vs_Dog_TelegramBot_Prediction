@@ -4,9 +4,13 @@ Implemented a convolutional neural network (2 Convo + 2 Dense Layer) trained on 
 
 ---
 
-## 🔍 Project Overview
+## 🔍 Project Overview & Demonstration
 
 Simple Cat vs Dog Classification. Whenever user sends a Photo to the telegram, it predicts using trained model and replies back
+
+<p align="center">
+  <img src="assets/demo.gif" width="600"/>
+</p>
 
 ##  Model Architecture
 
@@ -16,11 +20,8 @@ Frameworks used:
 - NumPy, Matplotlib for EDA
 - OpenCV for preprocessing
 
-```python
 
 
 <p align="center">
-  <img src="assets/sample_output.png" width="600"/>
+  <img src="assets/image.png" width="600"/>
 </p>
-
-
